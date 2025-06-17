@@ -1,0 +1,23 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/FIFO_8_to_3_final_tb.sv,1743150884,systemVerilog,,,,FIFO_8_to_3_final_tb,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/FIFO_8_to_3_tb.v,1743149523,verilog,,,,FIFO_8_to_3_tb,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/FIFO_tb.v,1743147196,verilog,,,,FIFO_tb,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/Lab1_tb.v,1743088723,verilog,,,,Lab1_tb,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/Lab2_task1_tb.v,1743132898,verilog,,,,Lab2_task1_tb,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/Lab2_task2_tb.v,1743134666,verilog,,,,Lab2_task2_tb,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/clk_div_tb.v,1743151666,verilog,,,,clk_div_tb,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/clock_tb.v,1743152080,verilog,,,,clock_tb,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sources_1/new/D_ff.v,1743089339,verilog,,E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sources_1/new/lab1_2_top.v,,D_ff,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sources_1/new/FIFO.v,1743144525,verilog,,E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/FIFO_tb.v,,FIFO,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sources_1/new/FIFO_8_to_3.v,1743148821,verilog,,E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/FIFO_8_to_3_tb.v,,FIFO_8_to_3,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sources_1/new/Lab2_task2.v,1743135124,verilog,,E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/Lab2_task2_tb.v,,Lab2_task2,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sources_1/new/ReLU.v,1743088211,verilog,,E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sources_1/new/counter.v,,ReLU,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sources_1/new/clk_div.v,1743151578,verilog,,E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/clk_div_tb.v,,clk_div,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sources_1/new/clock.v,1743151933,verilog,,E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/clock_tb.v,,clock,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sources_1/new/counter.v,1743089093,verilog,,E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/Lab1_tb.v,,counter,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sources_1/new/seq_detect.v,1743090976,verilog,,E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/Lab2_task1_tb.v,,seq_detect,,,,,,,,
+E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sources_1/new/seq_detect_overlap.v,1743131450,verilog,,E:/Vivado_Project/Digital_Logic_Labs/Digital_Logic_Labs.srcs/sim_1/new/Lab2_task1_tb.v,,seq_detect_overlap,,,,,,,,
