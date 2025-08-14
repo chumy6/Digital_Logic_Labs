@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Digital_Logic_Labs.srcs/sources_1/new/debounce.v" \
+"../../../../Digital_Logic_Labs.srcs/sources_1/new/posedge_detect.v" \
+"../../../../Digital_Logic_Labs.srcs/sources_1/new/vending_machine.v" \
+"../../../../Digital_Logic_Labs.srcs/sim_1/new/vending_machine_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
